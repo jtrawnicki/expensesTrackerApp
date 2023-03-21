@@ -1,0 +1,1 @@
+[{"name":"Rozrywka"},{"name":"Ksiazki"},{"name":"Edukacja"},{"name":"Zakupy"}]
